@@ -1,0 +1,76 @@
+[33mcommit b72c0470e5c257703eb8d4a07301bd893ed7df2a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Екатерина Баклунова <BaklunovaEA@yandex.ru>
+Date:   Sun Oct 4 21:17:00 2026 +0300
+
+    Перезапуск проверки
+
+[33mcommit 9b005c4f6c6eef6ea39c03b297f420bbec95a59e[m
+Author: Екатерина Баклунова <BaklunovaEA@yandex.ru>
+Date:   Sun Oct 4 21:14:29 2026 +0300
+
+    Обновление для проверки
+
+[33mcommit e89fbf3a47832ada2bf8018eb75f8e7d83768b33[m
+Author: Екатерина Баклунова <BaklunovaEA@yandex.ru>
+Date:   Sun Oct 4 20:55:12 2026 +0300
+
+    Выполнена домашка fit_life
+
+[33mcommit 1291acaad31ab43bb9bc5797e9c1aca8fec87350[m
+Author: Екатерина Баклунова <BaklunovaEA@yandex.ru>
+Date:   Sun Oct 4 16:48:47 2026 +0300
+
+    исправлена ошибка синтаксиса
+
+[33mcommit c0e9f66eacf3f0e54c72186f8224daa9270c557a[m
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Thu Dec 28 22:05:38 2023 +0000
+
+    Update test_program.py
+
+[33mcommit 40b7085614d6edfa5b9a19150cebf3b742231b99[m
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Thu Dec 28 22:01:06 2023 +0000
+
+    Update README.md
+
+[33mcommit bda5c41d014b6d64080d4220d744a05bea96978d[m
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Fri Oct 22 12:46:24 2021 +0300
+
+    Delete .gitignore
+    
+    Студенты должны самостоятельно создавать и наполнять этот файл.
+
+[33mcommit a8a17725e512be95f88d6ba6ab2f07d88d56db03[m
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Wed Jun 2 12:00:52 2021 +0300
+
+    fixed tests launch
+
+[33mcommit d0bc9ed2155193a0fd4f4cf585e26371ced8ed3e[m
+Merge: 5757a20 5f83f04
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Mon Apr 5 08:48:01 2021 +0300
+
+    Merge pull request #11 from TurboKach/master
+    
+    changes
+
+[33mcommit 5f83f04d266e46abc40ab81787fef58ca1fd62bc[m
+Author: TurboKach <incognito@turbokach.me>
+Date:   Thu Apr 1 13:58:05 2021 +0300
+
+    2pac - changes
+
+[33mcommit 5757a2037d69aae4714dde5879914e0d9aa89742[m
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Wed Dec 11 14:15:14 2019 +0300
+
+    Create program.py
+
+[33mcommit fcbbab91fe56456ec6f5d90102b10899359604c1[m
+Author: yandex-praktikum <58176914+yandex-praktikum@users.noreply.github.com>
+Date:   Wed Dec 11 14:14:10 2019 +0300
+
+    Initial commit

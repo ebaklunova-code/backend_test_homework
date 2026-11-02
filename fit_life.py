@@ -13,8 +13,8 @@ bmi_rounded = round(bmi, 1)
 water_ml = user__weight * 30
 water_l = water_ml / 1000
  
-print('Отчет для пользователя:', user_name, user__age)
-print('Твой индек массы тела:', bmi_rounded)
-print('Рекомендуемая норма воды:', water_l, 'л в день')
+print(f'Отчет для пользователя: {user_name}, {user_age}')
+print(f'Твой индекс массы тела: {bmi_rounded}')
+print(f'Рекомендуемая норма воды: {water_l} л в день')
 print('')
 print('Расчет окончен. Будьте здоровы!')
